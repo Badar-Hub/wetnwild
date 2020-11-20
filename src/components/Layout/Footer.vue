@@ -2,7 +2,7 @@
   <div>
       <div class="footer-main">
           <div class="footer">
-            <p>Copyright 2020 wet n wild®. All rights reserved. |Privacy & Security | Terms & Conditions | Olapic Terms and Conditions | Site Map</p>
+            <p>Copyright 2020 wet n wild®. All rights reserved. </p>
           </div>
       </div>
   </div>
