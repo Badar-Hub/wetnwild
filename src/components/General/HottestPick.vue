@@ -38,6 +38,7 @@ export default {
     flex-direction: column;
     max-width: 1200px;
     margin: auto;
+    padding: 2% 0;
 }
 
 .gr {
@@ -49,7 +50,7 @@ export default {
 .btn{
     background-color: #EA27C2;
     color: white;
-    font: 900;
+    font-weight: 900;
     width: 150px;
     padding: 10px;
     margin: auto;
@@ -62,5 +63,7 @@ export default {
 }
 .single p{
     margin: auto;
+    font-weight: 900;
+    padding-top: 5px;
 }
 </style>

@@ -67,10 +67,15 @@ export default {
 .btn{
     background-color: #EA27C2;
     color: white;
-    font: 900;
+    font-weight: 900;
     width: 200px;
     padding: 10px;
-    margin: 50px auto;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 0;
     border: none;
+}
+h4{
+    margin-top: 0;
 }
 </style>
