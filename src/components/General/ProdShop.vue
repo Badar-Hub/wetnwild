@@ -17,9 +17,11 @@ export default {
 <style scoped>
 img {
     max-width: 250px;
+    margin: auto;
 }
 
 .prod{
     padding: 15px 0;
+    margin: auto;
 }
 </style>

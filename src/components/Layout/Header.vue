@@ -14,7 +14,7 @@
             <div class="header-navigation">
                 <nav>
                 <ul>
-                    <li><a href="#">NEW</a></li>
+                    <li><a href="/new">NEW</a></li>
                     <li><a href="#">EYE</a></li>
                     <li><a href="#">LIPS</a></li>
                     <li><a href="#">NAILS</a></li>

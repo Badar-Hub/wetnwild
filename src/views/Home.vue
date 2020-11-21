@@ -5,8 +5,6 @@
     <MegaLastLip />
     <HottestPick />
     <Footer />
-    <input type="text" v-model="name">
-    <h2>{{name}}</h2>
   </div>
 </template>
 
