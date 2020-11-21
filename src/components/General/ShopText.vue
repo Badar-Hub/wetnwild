@@ -17,5 +17,7 @@ export default {
 </script>
 
 <style scoped>
-
+.shoptxt{
+    text-align: center;
+}
 </style>
