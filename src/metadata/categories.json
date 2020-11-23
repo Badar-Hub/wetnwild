@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+    "label": "SALE",
+    "subCategories": [{"label":"All Sale Products", "link":"/sale"}, {"label": "Bundles", "link": "/sale/bundles"}, {"label": "Special Offers", "link": "/sale/special-offer"}],
+    "displaySub": false,
+    "link": "/sale"
+    },
+    {
+    "label": "NEW",
+    "subCategories": [{"label": "All New Products", "link": "/new"}, {"label": "Makeup Palettes", "link": "/new/Makeup-Palettes"}, {"label": "Skin Care", "link": "/new/skin-care"}, {"label":"MegaGlo", "link": "/new/megaglo"}, {"label": "Liquid Catsuit", "link": "/new/liquid-catsuit"}, {"label": "Mega Jelly", "link": "/new/mega-jelly"}, {"label": "Gift Cards", "link": "/new/gift-cards"}],
+    "displaySub": false,
+    "link": "/new"
+    },
+    {
+    "label": "LIPS",
+    "subCategories": [{"label":"All Lips Products", "link": "/lips" }, {"label": "Lip Color", "link": "/lips/lip-color"}, {"label":"Lip Liner", "link":"/lips/lip-liner"}, {"label": "Lip Gloss", "link": "/lips/lip-gloss"}, {"label":"Lip Balm", "link": "/lips/lip-balm"}],
+    "displaySub": false,
+    "link": "/lips"
+    },
+    {
+    "label": "EYES",
+    "subCategories": [{"label": "All Eyes Products", "link": "/eyes"}, {"label":"Mascara", "link": "/eyes/mascara"}, {"label":"Eyeshadow", "link":"/eyes/eyeshadow"}, {"label":"Eyeliner", "link":"/eyes/eyeliner"}, {"label":"Brow", "link": "/eyes/brow"}, {"label":"Primer", "link":"/eyes/primer"}, {"label":"False Lashes", "link":"/eyes/false-lashes"}],
+    "displaySub":false,
+    "link": "/eyes"
+    },
+    {
+    "label": "NAILS",
+    "subCategories": [{"label":"All Nails Products", "link": "/nails"}, {"label": "Nail Care", "link": "/nails/nail-care"}, {"label": "Nail Color", "link": "/nails/nail-color"}],
+    "displaySub": false,
+    "link": "/nails"
+    },
+    {
+    "label": "FACE",
+    "subCategories": [{"label": "All Face Products", "link": "/face"}, {"label": "Cheeks", "link": "/face/cheeks"}, {"label": "Foundation", "link": "/face/foundation"}, {"label": "Concealer", "link": "/face/concealer"}, {"label": "Face Powder", "link": "/face/face-powder"}, {"label": "Prime & Set", "link": "/face/prime-set"}, {"label": "Highlight & Contour", "link": "/face/highlight-contour"}, {"label": "Glitter", "link": "/face/glitter"}, {"label": "Body", "link": "/face/body"}],
+    "displaySub": false,
+    "link": "/face"
+    },
+    {
+    "label": "BRUSHES",
+    "subCategories": [{"label": "All Brushes Products", "link": "/brushes"}, {"label": "Pro Line Brush", "link": "/brushes/pro-line-brush"}, {"label": "Essential Brushes", "link": "/brushes/essential-brushes"}, {"label": "Makeup Sponges", "link": "/brushes/makeup-sponges"}],
+    "displaySub": false,
+    "link": "/brushes"
+    }
+  ]
+}
