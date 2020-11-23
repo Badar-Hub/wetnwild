@@ -60,6 +60,7 @@ import shopImg from "@/components/Layout/ShopImg.vue";
 import ShopText from "../components/General/ShopText.vue";
 import ProdShop from "../components/General/ProdShop.vue";
 const categories = require("@/metadata/categories.json");
+const productsMock = require("@/metadata/products.json");
 import axios from "axios";
 export default {
   components: { Header, shopImg, ShopText, ProdShop, Footer },
@@ -77,10 +78,19 @@ export default {
   },
   methods: {
     getData() {
-      axios.get("http://localhost/api/products").then((res) => {
-        this.products = res.data;
-        console.log(this.products);
-      });
+      axios
+        .get("http://localhost/api/products")
+        .then((res) => {
+          if (res.data.length) {
+            this.products = res.data;
+          } else {
+            this.products = productsMock;
+          }
+          console.log(this.products);
+        })
+        .catch(() => {
+          this.products = productsMock;
+        });
     },
   },
 };

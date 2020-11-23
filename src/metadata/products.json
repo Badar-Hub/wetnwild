@@ -1,0 +1,40 @@
+{
+  "products": [
+    
+  {
+    "name": "Star Lux Lip Scrub",
+    "price": "$3.99",
+    "img": "../assets/img/product/Star-Lux-Lip-Scrub.3768f8da.jpg"
+  },
+  {
+    "name": "Star Lux Lip Scrub",
+    "price": "$3.99",
+    "img": "../assets/img/product/Star-Lux-Lip-Scrub.3768f8da.jpg"
+  },
+  {
+    "name": "Star Lux Lip Scrub",
+    "price": "$3.99",
+    "img": "../assets/img/product/Star-Lux-Lip-Scrub.3768f8da.jpg"
+  },
+  {
+    "name": "Star Lux Lip Scrub",
+    "price": "$3.99",
+    "img": "../assets/img/product/Star-Lux-Lip-Scrub.3768f8da.jpg"
+  },
+  {
+    "name": "Star Lux Lip Scrub",
+    "price": "$3.99",
+    "img": "../assets/img/product/Star-Lux-Lip-Scrub.3768f8da.jpg"
+  },
+  {
+    "name": "Star Lux Lip Scrub",
+    "price": "$3.99",
+    "img": "../assets/img/product/Star-Lux-Lip-Scrub.3768f8da.jpg"
+  },
+  {
+    "name": "Star Lux Lip Scrub",
+    "price": "$3.99",
+    "img": "../assets/img/product/Star-Lux-Lip-Scrub.3768f8da.jpg"
+  }
+]
+}
